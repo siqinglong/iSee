@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\周源赣用\iSee_2015727\iSee_2015727\bin\Debug\iSee_2015727.exe.config
+C:\Users\Administrator\Desktop\周源赣用\iSee_2015727\iSee_2015727\bin\Debug\iSee_2015727.exe
+C:\Users\Administrator\Desktop\周源赣用\iSee_2015727\iSee_2015727\bin\Debug\iSee_2015727.pdb
+C:\Users\Administrator\Desktop\周源赣用\iSee_2015727\iSee_2015727\obj\Debug\iSee_2015727.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\周源赣用\iSee_2015727\iSee_2015727\obj\Debug\iSee_2015727.Form1.resources
+C:\Users\Administrator\Desktop\周源赣用\iSee_2015727\iSee_2015727\obj\Debug\iSee_2015727.Properties.Resources.resources
+C:\Users\Administrator\Desktop\周源赣用\iSee_2015727\iSee_2015727\obj\Debug\iSee_2015727.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\周源赣用\iSee_2015727\iSee_2015727\obj\Debug\iSee_2015727.exe
+C:\Users\Administrator\Desktop\周源赣用\iSee_2015727\iSee_2015727\obj\Debug\iSee_2015727.pdb
+C:\Users\Administrator\Desktop\周源赣用\iSee_2015727\iSee_2015727\obj\Debug\ImageClassLib.ImageCut1.resources
+C:\Users\周源赣\Desktop\iSee_2015727\iSee_2015727\bin\Debug\iSee_2015727.exe.config
+C:\Users\周源赣\Desktop\iSee_2015727\iSee_2015727\obj\Debug\iSee_2015727.exe
+C:\Users\周源赣\Desktop\iSee_2015727\iSee_2015727\obj\Debug\iSee_2015727.csprojResolveAssemblyReference.cache
+C:\Users\周源赣\Desktop\iSee_2015727\iSee_2015727\obj\Debug\ImageClassLib.ImageCut1.resources
+C:\Users\周源赣\Desktop\iSee_2015727\iSee_2015727\obj\Debug\iSee_2015727.Properties.Resources.resources
+C:\Users\周源赣\Desktop\iSee_2015727\iSee_2015727\obj\Debug\iSee_2015727.csproj.GenerateResource.Cache
